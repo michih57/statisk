@@ -1,0 +1,4 @@
+Hi {{name}}!
+Bonus: {{bonus}}
+
+{% include "test.include" %}

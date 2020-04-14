@@ -1,0 +1,2 @@
+{:name "kurt"
+ :ignored-files [".*~" ".*edn" ".*include"]}
